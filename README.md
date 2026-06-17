@@ -1,3 +1,3 @@
 #Atvd6
 
-Rosas são vermelhas
+Rosas são vermelhas, Violetas são Azuis
